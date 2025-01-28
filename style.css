@@ -1,4 +1,4 @@
-.card{background-color: #fff;
+.card{background-color: #8e7dbe;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 width: 300px;
 padding: 10px;
@@ -6,4 +6,4 @@ border-radius: 4px;
 box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
     0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
     0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
-h1{color: cornflowerblue;}}
+h1{color: #99c1b9}}
